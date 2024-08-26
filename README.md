@@ -9,7 +9,7 @@
 [![-----------------------------------------------------](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png)](#table-of-contents)
 <p align="center">
    <a href="https://github.com/berabotsmd">
-    <img src="" width="500">
+    <img src="https://i.ibb.co/ZHn1Xd1/IMG-20240802-WA0019.jpg" width="500">
      
 </a>
  <p align="center"><img src="https://profile-counter.glitch.me/{berabotsmd}/count.svg" alt="xcelsama:: Visitor's Count" /></p>
@@ -29,5 +29,5 @@ Now Deploy
 
 # `Owner`
 
- <a href="https://github.com/berabotsmd"><img src="" width="250" height="250" alt="call.me.bera"/></a>
+ <a href="https://github.com/berabotsmd"><img src="https://i.ibb.co/ZHn1Xd1/IMG-20240802-WA0019.jpg" width="250" height="250" alt="call.me.bera"/></a>
 
